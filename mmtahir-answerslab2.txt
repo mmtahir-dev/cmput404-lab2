@@ -2,3 +2,5 @@ Q1. In the create_tcp_socket function using the socket module.
 Q2. Server socket binds to a port. Client socket listens to a server.
 Q3. 
 Q4. 
+Q5.
+Q6.https://github.com/mmtahir-dev/cmput404-lab2
